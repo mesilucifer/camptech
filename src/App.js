@@ -1,11 +1,7 @@
 import {React} from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { Container, Row} from "react-bootstrap";
+
 import "./App.css";
-import Header from "./Components/Header";
-import Profile from "./Components/Profile";
-import Footer from "./Components/Footer";
-import Courses from "./Pages/Courses";
 
 
 
